@@ -1,0 +1,75 @@
+Montalvo Notes:
+
+User Type: Artist Administrator
+            First Name: Jill
+            Last Name: Doe
+            Email: jill_doe@gmail.com
+            Geographic location
+            Education/Artistic institution
+ 
+I don’t think we ask this in the registration process but perhaps find a way to track participation?
+            Documents Authored: …….
+            Documents Contributed: …….
+
+
+Data Model Users:
+    Administrator
+        Ability to upload plans
+        Ability to edit plans
+        Ability to access and edit user accounts
+        Ability to access, edit, delete comments or users
+        Account Management – ability to create new accounts and grant administration access
+        Ability to update webpage content
+        Pull usage reports – track traffic
+    Artists administrator 
+        Ability upload and edit lesson plans
+        Ability to comment on adaptations of lesson plans
+        Ability to post link to resources and or social media
+    Public User
+        Ability to create account with password protection (access to re-set when needed), some biographical information, geographical and professional information
+        Ability to download and print lesson plans
+        Ability to comment and interact with other users
+        Ability to upload personal version of lesson plans to a community section that sources and credits original lesson plan
+        Ability to upload new, personal lesson plans (meaning we would need to include a digital form of our template)
+ 
+
+
+Data Model Capacities:
+    Home page: information on Montalvo and how to become involved
+        Searchable by:
+            Grade level (filter)
+            Academic content area (filter)
+            Artistic content area(filter)
+            Pedagogical approach(filter)
+            General word search
+        Editable and/or options for iterations
+ 
+Initial phase “must-haves”:
+        Access to lesson plans
+        Account to access lesson plans
+Initial phase “wish-list”:
+        Editing and interaction among users
+Tertiary “wish-list”:
+        Uploading personal lesson plans that source our template
+
+
+
+Examples of some databases:
+http://www.calacademy.org/educators/lesson-plans
+        We really like this one for its search capacity BUT would like the populated thumbnails to have the basic information about grade, artistic discipline, and academic content
+        They also use a pdf format for the actual lessons
+        Their landing page is a little messy for our aesthetics
+http://arts-impact.org/lesson-plan/
+        Filters are limiting without a general word search
+        Not very attractive
+https://www.edutopia.org/blogs/tag/lesson-plans
+        Can’t figure out how to search this one
+https://educationcloset.com/arts-integration-lessons/
+        Search options are limited here, but like them at the top of the page
+        While the listing of Leeson plans below is a bit much, perhaps we have “featured” lessons called out?
+https://artsedge.kennedy-center.org/educators/lessons
+        This is our favorite…but still a bit too busy in terms of the layout – we’d like to use more of that real estate for some biographical information about our organization
+ 
+
+
+
